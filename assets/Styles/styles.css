@@ -21,17 +21,13 @@
 
             
             justify-content: center;
-        }    
-
-       
-    }
-  
-    
-  
+        }  
+        
  
-
+    } 
 .degradado{
 
     background: rgb(49,81,193);
     background: linear-gradient(90deg, rgba(49,81,193,1) 1%, rgba(49,166,193,1) 48%, rgba(49,81,193,1) 97%);
 }
+
